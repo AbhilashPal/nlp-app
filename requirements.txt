@@ -2,7 +2,6 @@
 # $ conda create --name <env> --file <this file>
 # platform: win-64
 attrs==19.3.0
-blas==1.0
 breadability==0.1.20
 brotlipy==0.7.0
 ca-certificates==2020.6.24
