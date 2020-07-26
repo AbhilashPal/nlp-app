@@ -11,8 +11,6 @@ cymem==2.0.3
 docopt==0.6.2
 joblib==0.16.0
 lxml==4.5.2
-mkl-random==1.1.1
-mkl-service==2.3.0
 murmurhash==1.0.2
 nltk==3.5
 numpy==1.18.5
